@@ -1,6 +1,7 @@
 # Knights-Honour
 ![Screenshot](https://i.gyazo.com/8023863d10f30237d7fcebf8e32ea2ed.jpg)
-In my graduating year of high school I was tasked with creating a video game using Pygame in Python. It was a fun group experience which involed 4 people.
+In my graduating year of high school I took an unorthodox option instead of a final exam for my computer programming class. I convinced my teacher to allow me and a small group of friends with very different skills to create a massive video game instead.
+
 I was the primary coder/creator of the game. My friend Joel created all of the art for the game and Braydon and Ryan ended up creating the write-up and cutscenes.
 A week before the due date all groups dissolved and the individuals were tasked with adding to/completing the game. This is my version which I am very proud of.
 I have added my formal write-up to the game below for those interested.
