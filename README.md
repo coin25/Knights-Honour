@@ -21,6 +21,8 @@ Use/Create modules and other libraries
 
 
 Challenges
+
+
     Pyganim - This was a new module for us with new syntax. We had to first learn the syntax and then learn how to use the module properly. The hardest part however was incorporating the new module into the game. The module did not create sprites but created just their animations. This caused us to have to give everything a sprite, re-size hotboxes and rewrite the AI to play the animations properly.
 
     AI Tracking - We struggled with enemies following our player. It was simple to have them trace our x and y coordinates but we wanted to have varying methods of monsters finding us and the great variety made us expend a lot of extra time.
@@ -29,6 +31,8 @@ Challenges
 
 
 Successes
+
+
     Main loop - The games main loop is something we never had much of a problem with. Everything ran smoothly on our timers and each cut scene always met its mark.  
 
     Attacking Animation - The attacking animation came together really well, it looks smooth and is a huge improvement over there not being an animation.
@@ -38,7 +42,9 @@ Successes
     Transitions -  The game has very smooth transitions between levels that feels like an actually loading screen and are not too drawn out thanks to our optimization efforts.
 
 Additional Features
-Attack animation
+
+
+`Attack animation
 Walking animations for player and enemies
 109 hand drawn sprite frames
 Four unique enemies 
@@ -51,3 +57,4 @@ Multiple weapon choices
 Creative cutscenes
 Captivating storyline
 Working death system
+`
