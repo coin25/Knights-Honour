@@ -12,8 +12,7 @@ Design - Planing out the game
     Our idea was a top down RPG style game with a complete story, original artwork and a unique boss fight unlike anything we could have programmed prior to this class. It would have a lot of levels with high mob-density and intense scenarios.
 
 How we met the criteria 
-
-    This semester we learned how to do the following that involve making a game, 
+This semester we learned how to do the following that involve making a game, 
 Create and implement Classes 
 Create sprites and use collision detection
 Use/Create modules and other libraries
